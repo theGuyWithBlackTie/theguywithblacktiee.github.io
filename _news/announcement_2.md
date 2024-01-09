@@ -1,6 +1,6 @@
 ---
 layout: post
-<!---title: A long announcement with details--->
+[comment]: title: A long announcement with details
 date: 2022-08-17 16:11:00-0400
 inline: false
 related_posts: false
