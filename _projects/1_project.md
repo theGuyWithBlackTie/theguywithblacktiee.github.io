@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Augmenting Context-Aware Citation Recommendations With Citation and Co-authorship History
+description: Proposed a citation recommendation system utilizing co-authorship networks, employing Graph Convolution Networks for co-author and citation graph embeddings, and implementing transfer learning with BERT and Sci-BERT.
+img: assets/img/publication_preview/graph_2.gif
 importance: 1
 category: work
+redirect: https://github.com/theGuyWithBlackTie/pytorch-BERT-GCN
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
