@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Neural Machine Translation
+description: Implemented a seq2seq model for German-to-English translation, incorporating an attention mechanism to handle longer text inputs effectively.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/theGuyWithBlackTie/Neural-Machine-Translation-Pytorch
 importance: 3
 category: work
 ---
