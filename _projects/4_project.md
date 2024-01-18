@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Contrastive Learning and Triplet for classifying handwritten digits
+description: Instead of using regular monotonous neural network and softmax activation, I attempted classification with contrastive loss and triplet loss. I implemented a Siamese network and used it with both the loss functions.
 img:
 importance: 3
+redirect: https://github.com/theGuyWithBlackTie/siamese-triplet
 category: fun
 ---
 

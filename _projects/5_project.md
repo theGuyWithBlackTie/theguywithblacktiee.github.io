@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Generative Adversarial Networks
+description: Constructed a comprehensive and instructive blog tutorial, showcasing the implementation of a Generative Adversarial Network (GAN) to adeptly regenerate handwritten digits. This tutorial provides a hands-on and insightful exploration of GANs, specifically focusing on their application in digit regeneration.
 img: assets/img/1.jpg
 importance: 3
+redirect: https://theguywithblacktie.github.io/kernel/deep%20learning/2021/06/30/GAN.html
 category: fun
 ---
 
