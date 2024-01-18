@@ -5,7 +5,7 @@ description: Successfully replicated the state-of-the-art DXML paper for the the
 img: assets/img/3.jpg
 importance: 2
 category: work
-redirect: https://paperswithcode.com/paper/deep-extreme-multi-label-learning
+redirect: https://github.com/theGuyWithBlackTie/Deep-Extreme-Multi-Label-Learning
 giscus_comments: true
 ---
 
