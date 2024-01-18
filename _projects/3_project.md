@@ -4,7 +4,7 @@ title: Neural Machine Translation
 description: Implemented a seq2seq model for German-to-English translation, incorporating an attention mechanism to handle longer text inputs effectively.
 img: assets/img/7.jpg
 redirect: https://github.com/theGuyWithBlackTie/Neural-Machine-Translation-Pytorch
-importance: 3
+importance: 4
 category: work
 ---
 

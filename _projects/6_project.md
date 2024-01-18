@@ -3,7 +3,7 @@ layout: page
 title: Suggesting Electric Car Charging Stations' Locations
 description: Created a project with the goal of aiding government organizations and companies in identifying optimal locations for electric car charging stations by analyzing big-data datasets containing vehicle routes in coordinate format. Utilized the dataset to determine the most frequently traveled routes within the city, and strategically identified ideal charging station points based on user densities along these high-traffic routes.
 img: assets/img/publication_preview/wave-mechanics.gif
-importance: 4
+importance: 3
 redirect: https://github.com/theGuyWithBlackTie/electricChargingStations
 category: work
 ---
