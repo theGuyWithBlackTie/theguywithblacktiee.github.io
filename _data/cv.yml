@@ -2,11 +2,15 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ashish Singhal
+    - name: Designation
+      value: Machine Learning Scientist
+    - name: Email
+      value: ashish.ash216@gmail.com
     - name: Languages
-      value: English, German
+      value: English, Hindi
+    - name: Summary
+      value: AI nerd working in NLP. Immensely into productivity, health and finance.
 
 - title: Education
   type: time_table
